@@ -1,5 +1,1 @@
-- 👋 Hi, my name is Danh Nguyen
-- 👀 I’m interested in computer science. Specifically back-end. 
-- 🌱 I’m currently training up my Java and Python skills.
-- 💞️ I’m looking to collaborate on project that is a bit more complex than just a small web app.
-- 📫 How to reach me: right here on GitHub
+Storage for stuffs
